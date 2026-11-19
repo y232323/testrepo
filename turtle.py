@@ -1,6 +1,6 @@
 import turtle
 
-turtle.turtle
+t = turtle.Turtle()
 t.shape('turtle')
 t.color('red')
 t.pensize(4)
